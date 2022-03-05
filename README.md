@@ -6,6 +6,21 @@
 
 ![screenshot](./screenshot.png)
 
+## Getting Started
+**step1** cloning the project:
+```
+git clone https://github.com/beyk/To-do-list.git
+```
+**step2** 
+```
+npm install
+npm run build
+```
+**step3** Development:
+```
+npm install --save-dev webpack-dev-server
+npm start   
+```
 ## Live Demo
 
 [Live Demo Link](https://beyk.github.io/Todolist/)
