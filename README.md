@@ -23,7 +23,7 @@ npm start
 ```
 ## Live Demo
 
-[Live Demo Link](https://beyk.github.io/Todolist/)
+[Live Demo Link](https://beyk.github.io/To-do-list/)
 
 ## Built With
 
